@@ -48,5 +48,5 @@
 </div>
 
 <div align="center">
-      ${\color{#f53b7a}{\textsf{created by <a href="https://github.com/araya-shiki">@araya-shiki</a>}}}$
+      ${\color{#f53b7a}{\textsf{created by @araya-shiki}}}$
 </div>
