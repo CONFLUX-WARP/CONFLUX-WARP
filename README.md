@@ -41,7 +41,7 @@
                 <br>
                 ${\color{#f53b7a}{\textsf{──────}}}$
                 <br>
-                We are an ${\color{#f53b7a}{\textsf{upcoming pony town regiment}}}$
+                We are an ${\color{#f53b7a}{\textsf{upcoming Pony Town regiment}}}$
                 <br>
                 and this is our ${\color{#f53b7a}{\textsf{GitHub}}}$ page.
                 <br>
