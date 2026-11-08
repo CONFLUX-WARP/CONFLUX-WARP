@@ -46,3 +46,7 @@
     </th>
   </table>
 </div>
+
+<div align="center">
+      <sub><sup>${\color{#f53b7a}{\textsf{created by @araya-shiki}}}$</sup></sub>
+</div>
