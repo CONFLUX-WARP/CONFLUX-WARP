@@ -27,23 +27,36 @@
 
 <div align="center">
   <table>
-    <th>
+    <td>
       <div align="center">
         <img alt="Hits" src="https://hits.sh/github.com/CONFLUX-WARP.svg?label=warps&color=ffffff&labelColor=f53b7a&logo=rainyun"/>
       </div>
-      <br>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&duration=2000&pause=1&color=F53B7A&vCenter=true&multiline=true&height=120&lines=Something+has+started+today;Where+did+it+go%3F%E2%A0%80%E2%A0%80+What+you+want+it+to+be%3F;Well%2C+%E2%A0%80%E2%A0%80%E2%A0%80+%E2%A0%80%E2%A0%80+you+know+November+has+come;When+it's+gone+away+%E2%A0%80+%28Oh%2C+what+they+say%29;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+" alt="Typing SVG" /></a>
-      <br>
-      <br>
-      placeholder text
-      <br>
-      <br>
-      <kbd>
-        ${\color{#f53b7a}{\textsf{LINK(s)}}}$
-        <br>
-        placeholder for images & redirects
-      </kbd>
-    </th>
+          <br>
+          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&duration=2000&pause=1&color=F53B7A&vCenter=true&multiline=true&height=120&lines=Something+has+started+today;Where+did+it+go%3F%E2%A0%80%E2%A0%80+What+you+want+it+to+be%3F;Well%2C+%E2%A0%80%E2%A0%80%E2%A0%80+%E2%A0%80%E2%A0%80+you+know+November+has+come;When+it's+gone+away+%E2%A0%80+%28Oh%2C+what+they+say%29;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+" alt="Typing SVG" /></a>
+          <br>
+          <br>
+          <div align="center">
+                Welcome to ${\color{#f53b7a}{\textsf{Conflux Warp HQ!}}}$
+                <br>
+                ${\color{#f53b7a}{\textsf{──────}}}$
+                <br>
+                We are an ${\color{#f53b7a}{\textsf{upcoming pony town regiment}}}$
+                <br>
+                and this is our ${\color{#f53b7a}{\textsf{GitHub}}}$ page.
+          </div>
+          <br>
+          <br>
+          <div align="center">
+                <kbd>
+                      <img width="20" alt="coralwarp_gif" src="https://github.com/user-attachments/assets/9dc2371a-4a55-484a-8c2d-425f71883892" /> ${\color{#f53b7a}{\textsf{LINK(s)}}}$
+                      <br>
+                      placeholder for images & redirects
+                </kbd>
+          </div>
+          <div align="center">
+                <img width="210" alt="coral_dividerbottom" src="https://github.com/user-attachments/assets/2c7b2839-f42a-4544-9227-9d1a1038983a" />
+          </div>
+    </td>
   </table>
 </div>
 <br>
