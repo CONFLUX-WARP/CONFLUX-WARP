@@ -24,35 +24,41 @@
       ilo out
       
 -->
-
+<!-- main markdown -->
 <div align="center">
   <table>
     <td>
       <div align="center">
-        <img alt="Hits" src="https://hits.sh/github.com/CONFLUX-WARP.svg?label=warps&color=ffffff&labelColor=f53b7a&logo=rainyun"/>
+        <img alt="Hits" src="https://hits.sh/github.com/CONFLUX-WARP.svg?label=warps&color=ffffff&labelColor=f53b7a&logo=rainyun"/> 
       </div>
           <br>
-          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&duration=2000&pause=1&color=F53B7A&vCenter=true&multiline=true&height=120&lines=Something+has+started+today;Where+did+it+go%3F%E2%A0%80%E2%A0%80+What+you+want+it+to+be%3F;Well%2C+%E2%A0%80%E2%A0%80%E2%A0%80+%E2%A0%80%E2%A0%80+you+know+November+has+come;When+it's+gone+away+%E2%A0%80+%28Oh%2C+what+they+say%29;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+" alt="Typing SVG" /></a>
-          <br>
+          <div align="center">
+                ${\color{#f53b7a}{\textsf{𓎢𓎟𓎡}}}$
+          </div>
           <br>
           <div align="center">
-                Welcome to ${\color{#f53b7a}{\textsf{Conflux Warp HQ!}}}$
+                Welcome to ${\color{#f53b7a}{\textsf{Conflux Warp HQ!}}}$ ${\color{#f53b7a}{\textsf{˙ ʆ ͜͝ ꒱꒱}}}$ <img width="20" alt="coralwarp_gif" src="https://github.com/user-attachments/assets/9dc2371a-4a55-484a-8c2d-425f71883892" />
                 <br>
                 ${\color{#f53b7a}{\textsf{──────}}}$
                 <br>
                 We are an ${\color{#f53b7a}{\textsf{upcoming pony town regiment}}}$
                 <br>
                 and this is our ${\color{#f53b7a}{\textsf{GitHub}}}$ page.
+                <br>
+                ${\color{#f53b7a}{\textsf{ㅤ𑁍ࠬܓㅤㅤ۟ㅤㅤ◌ㅤ ۫}}}$
           </div>
           <br>
           <br>
           <div align="center">
                 <kbd>
-                      <img width="20" alt="coralwarp_gif" src="https://github.com/user-attachments/assets/9dc2371a-4a55-484a-8c2d-425f71883892" /> ${\color{#f53b7a}{\textsf{LINK(s)}}}$
+                      ${\color{#f53b7a}{\textsf{LINK(s)}}}$
                       <br>
                       placeholder for images & redirects
                 </kbd>
           </div>
+          <br>
+          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&duration=2000&pause=1&color=F53B7A&vCenter=true&multiline=true&height=120&lines=Something+has+started+today;Where+did+it+go%3F%E2%A0%80%E2%A0%80+What+you+want+it+to+be%3F;Well%2C+%E2%A0%80%E2%A0%80%E2%A0%80+%E2%A0%80%E2%A0%80+you+know+November+has+come;When+it's+gone+away+%E2%A0%80+%28Oh%2C+what+they+say%29;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+;+%E2%A0%80+%E2%A0%80+" alt="Typing SVG" /></a>
+          <br>
           <div align="center">
                 <img width="210" alt="coral_dividerbottom" src="https://github.com/user-attachments/assets/2c7b2839-f42a-4544-9227-9d1a1038983a" />
           </div>
@@ -61,8 +67,10 @@
 </div>
 <br>
 <br>
+<br>
+<br>
+<!-- credit & signature message -->
 <p align="center">
       ${\color{#f53b7a}{\textsf{created by @araya-shiki}}}$
       <br>
-      ${\color{#f53b7a}{\textsf{(' ᐜ ' ꩜ )}}}$
 </p>
