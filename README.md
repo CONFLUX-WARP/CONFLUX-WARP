@@ -46,7 +46,10 @@
     </th>
   </table>
 </div>
-
-<div align="center">
+<br>
+<br>
+<p align="center">
       ${\color{#f53b7a}{\textsf{created by @araya-shiki}}}$
-</div>
+      <br>
+      ${\color{#f53b7a}{\textsf{(' ᐜ ' ꩜ )}}}$
+</p>
