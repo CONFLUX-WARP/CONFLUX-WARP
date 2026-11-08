@@ -21,7 +21,7 @@
       as you still credit me.
 
       thanks!
-      ilo out
+      bozo exiting
       
 -->
 <!-- main markdown -->
@@ -37,7 +37,7 @@
           </div>
           <br>
           <div align="center">
-                Welcome to ${\color{#f53b7a}{\textsf{Conflux Warp HQ!}}}$ ${\color{#f53b7a}{\textsf{˙ ʆ ͜͝ ꒱꒱}}}$ <img width="20" alt="coralwarp_gif" src="https://github.com/user-attachments/assets/9dc2371a-4a55-484a-8c2d-425f71883892" />
+                Welcome to ${\color{#f53b7a}{\textsf{Conflux Warp HQ!}}}$ ${\color{#f53b7a}{\textsf{ ʆ ͜͝ ꒱꒱}}}$ <img width="20" alt="coralwarp_gif" src="https://github.com/user-attachments/assets/9dc2371a-4a55-484a-8c2d-425f71883892" />
                 <br>
                 ${\color{#f53b7a}{\textsf{──────}}}$
                 <br>
