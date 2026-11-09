@@ -71,6 +71,6 @@
 <br>
 <!-- credit & signature message -->
 <p align="center">
-      ${\color{#f53b7a}{\textsf{created by @araya-shiki}}}$
+      ${\color{#f53b7a}{\textsf{created by @metafilibuster}}}$
       <br>
 </p>
