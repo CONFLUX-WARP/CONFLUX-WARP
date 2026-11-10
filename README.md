@@ -29,7 +29,9 @@
   <table>
     <td>
       <div align="center">
-        <img alt="Hits" src="https://hits.sh/github.com/CONFLUX-WARP.svg?label=warps&color=ffffff&labelColor=f53b7a&logo=rainyun"/> 
+            <kbd>
+                  <img alt="profile counter" src="https://hits.sh/github.com/CONFLUX-WARP.svg?label=warps&color=ffffff&labelColor=f53b7a&logo=rainyun"/>
+            </kbd>
       </div>
           <br>
           <div align="center">
@@ -37,15 +39,15 @@
           </div>
           <br>
           <div align="center">
-                Welcome to ${\color{#f53b7a}{\textsf{Conflux Warp HQ!}}}$ ${\color{#f53b7a}{\textsf{ ʆ ͜͝ ꒱꒱}}}$
+                Welcome to ${\color{#f53b7a}{\textsf{Conflux}}}$ ${\color{#3174e8}{\textsf{Warp}}}$ ${\color{#f53b7a}{\textsf{HQ!}}}$ ${\color{#3174e8}{\textsf{ ʆ ͜͝ ꒱꒱}}}$
                 <br>
                 ${\color{#f53b7a}{\textsf{──────}}}$
                 <br>
-                We are an ${\color{#f53b7a}{\textsf{upcoming Pony Town regiment}}}$
+                We are an ${\color{#f53b7a}{\textsf{upcoming}}}$ ${\color{#3174e8}{\textsf{Pony Town regiment}}}$
                 <br>
                 and this is our ${\color{#f53b7a}{\textsf{GitHub}}}$ page.
                 <br>
-                ${\color{#f53b7a}{\textsf{ㅤ𑁍ࠬܓㅤㅤ۟ㅤㅤ◌ㅤ ۫}}}$
+                ${\color{#3174e8}{\textsf{ㅤ𑁍ࠬܓㅤㅤ۟ㅤㅤ◌ㅤ ۫}}}$
           </div>
           <br>
           <br>
