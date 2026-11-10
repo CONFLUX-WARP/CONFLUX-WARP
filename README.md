@@ -7,7 +7,7 @@
       markdowns code/syntax, you can take inspirations from this repositorys 
       profile readme or fork it whenever/if you feel like it as long as you 
       still credit to me, the writer of this message and the markdown here 
-      (@araya-shiki/https://github.com/araya-shiki)
+      (@metafilibuster/https://github.com/metafilibuster)
 
       i own the account of @CONFLUX-WARP. "why isnt it on your main instead?"
       this profile is separate from my main account, as you can tell; this
